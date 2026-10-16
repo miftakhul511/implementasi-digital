@@ -1,0 +1,10 @@
+Tambahkan dua file PNG asli Anda ke folder ini:
+1. logosekolah.png
+2. logoramah.png
+
+Nama file harus persis, termasuk huruf kecilnya. Logo akan muncul otomatis di header setiap slide. Selama belum ditambahkan, presentasi menampilkan penanda logo.
+
+materi-kegiatan.png adalah gambar sumber yang sudah disertakan. Jangan hapus jika masih ingin menampilkan lampiran pada slide terakhir.
+
+Tambahkan juga foto diseminasi: fotodiseminasi.png
+Foto otomatis muncul pada slide 6 dan dapat diklik untuk diperbesar.
